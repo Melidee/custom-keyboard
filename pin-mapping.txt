@@ -1,0 +1,40 @@
+A0 - RESERVED: USER KEY
+A1 - GPIO_OUTPUT: row 0 Matrix
+A2 - GPIO_OUTPUT: row 1 Matrix
+A3 - GPIO_OUTPUT: row 2 Matrix
+A4 - GPIO_OUTPUT: row 3 Matrix
+A5 - GPIO_OUTPUT: row 4 Matrix
+A6 - GPIO_OUTPUT: row 5 Matrix
+A7 - GPIO_INPUT: column 0 Matrix
+A8 - GPIO_INPUT: column 1 Matrix
+A9 - RESERVED: Serial TX1
+A10 - RESERVED: Serial RX1
+A11 - RESERVED: USB-M
+A12 - RESERVED: USB-P
+A15 - GPIO_INPUT: column 2 Matrix
+B0 - GPIO_INPUT: column 3 Matrix
+B1 - GPIO_INPUT: column 4 Matrix
+B2 - RESERVED: Bootloader or something
+B3 - GPIO_INPUT: column 5 Matrix
+B4 - GPIO_INPUT: column 6 Matrix
+B5 - GPIO_INPUT: column 7 Matrix
+B6 - GPIO_INPUT: column 8 Matrix
+B7 - GPIO_INPUT: column 9 Matrix
+B8 - GPIO_INPUT: column 10 Matrix
+B9 - GPIO_INPUT: column 11 Matrix
+B10 - free
+B12 - GPIO_OUTPUT: led pwm controller
+B13 - GPIO_INPUT: column 12 Matrix
+B14 - GPIO_INPUT: column 13 Matrix
+B15 - GPIO_INPUT: column 14 Matrix
+C13 - RESERVED - On-board LED
+C14 - GPIO_OUTPUT: Rotary Output A
+C15 - GPIO_OUTPUT: Rotary Output B
+R - CONSTANT: Reset
+VB - CONSTANT: Voltage Battery
+5V - CONSTANT: 5V Rail
+G - CONSTANT: Ground
+3V3 CONSTANT: 3.3V Rail
+
+
+

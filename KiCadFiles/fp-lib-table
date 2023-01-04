@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "footprints")(type "KiCad")(uri "C:/Users/warde/Documents/KiCad/6.0/footprints")(options "")(descr ""))
+  (lib (name "Used Footprints")(type "KiCad")(uri "C:/Users/warde/Documents/custom-keyboard/Used Footprints")(options "")(descr ""))
+)
